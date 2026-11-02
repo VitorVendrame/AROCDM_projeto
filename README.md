@@ -18,7 +18,7 @@ Aplicativo móvel em React Native + Expo que usa a câmera do celular para detec
 | Tecnologia | Uso |
 |---|---|
 | [React Native](https://reactnative.dev) 0.81 | Framework de desenvolvimento móvel multiplataforma |
-| [Expo](https://expo.dev) SDK 54 / Expo Router | Ambiente de desenvolvimento, navegação e APIs nativas |
+| [Expo](https://expo.dev) SDK 58 / Expo Router | Ambiente de desenvolvimento, navegação e APIs nativas |
 | expo-camera | Acesso à câmera do dispositivo |
 | [TensorFlow.js](https://www.tensorflow.org/js) + tfjs-react-native | Execução do modelo de aprendizado profundo no dispositivo |
 | COCO-SSD | Modelo de detecção de objetos pré-treinado no conjunto COCO (mesmas 80 classes usadas pelo YOLO) |
@@ -101,7 +101,3 @@ AROCDM/
 ## Orientador
 
 **Prof. Cleberson Eugenio Forte**
-
-## Licença
-
-Distribuído sob a licença descrita no arquivo [LICENSE](LICENSE).
